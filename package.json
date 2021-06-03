@@ -20,7 +20,8 @@
     "/lib",
     "/npm-shrinkwrap.json",
     "/oclif.manifest.json",
-    "/yarn.lock"
+    "/yarn.lock",
+    "/package-lock.json"
   ],
   "homepage": "https://github.com/Wardner/firsttry",
   "keywords": [
